@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
 
-I'm Jakub, an studing cybersecurity. I am aspiring software developer and software engineer, slowly working towards getting a CS Degree at AGH University of Science and Technology
+I'm Jakub, currently studying cybersecurity. I aspire to become a software developer and software engineer, and I'm gradually working towards obtaining a CS degree at AGH University of Science and Technology.
 
-- 🔭 I’m currently working on creating webpage for AGH science club and working on game project 
-- 🌱 I’m currently learning how to code in C++ and write shaders in ShaderLab
-- 📫 How to reach me: by email jakub.ocytko@gmail.com
-
+🔭 Currently, I'm working on creating a webpage for an AGH science club and also on a game project.
+🌱 I'm learning how to code in C++ and write shaders in ShaderLab.
+📫 You can reach me via email at jakub.ocytko@gmail.com.
