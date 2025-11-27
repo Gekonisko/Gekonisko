@@ -16,6 +16,6 @@ The project was built using the following technologies:
 Additionally, over the past few years, I have created several mobile games in Unity, which are available on Google Play:
 - [Space Defense: Galaxy Harvest](https://play.google.com/store/apps/details?id=com.SpaceDefence.GalaxyHarvest)
 - [Super Bomber Classic](https://play.google.com/store/apps/details?id=pl.bomberman.classic)
-- [Dethrone the King
-](https://play.google.com/store/apps/details?id=com.GameLab.DethronetheKing)
+- [Dethrone the King](https://play.google.com/store/apps/details?id=com.GameLab.DethronetheKing)
+
 I also hold a Cambridge B2 English Certificate, which confirms my strong command of the English language and enables me to work effectively in international environments.
